@@ -272,3 +272,24 @@
     border: 1px solid black;
     margin: 0px 167px;
 }
+.carrd:hover{
+    background-color: rgba(40, 40, 40, 0.605);
+    color: aliceblue;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+.carrd1:hover{
+    background-color: rgba(40, 40, 40, 0.605);
+    color: aliceblue;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+.carrd2:hover{
+    background-color: rgba(40, 40, 40, 0.605);
+    color: aliceblue;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
