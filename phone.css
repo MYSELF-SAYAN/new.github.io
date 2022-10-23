@@ -1,6 +1,4 @@
-body{
-    background-color: red;
-}
+
 .first {
     display: flex;
     flex-direction: column;
