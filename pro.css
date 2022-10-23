@@ -411,7 +411,21 @@ font-size: 2rem;
 color: #061065;
 font-family: 'IBM Plex Sans Devanagari', sans-serif;
 }
-.carrd{
+.carrd:hover{
+    background-color: rgba(40, 40, 40, 0.605);
+    color: aliceblue;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+.carrd1:hover{
+    background-color: rgba(40, 40, 40, 0.605);
+    color: aliceblue;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+.carrd2:hover{
     background-color: rgba(40, 40, 40, 0.605);
     color: aliceblue;
     cursor: pointer;
